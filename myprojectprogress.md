@@ -1,0 +1,3 @@
+Write about your thoughts on possible projects of interest and how you would like to organize it. Common repository? Blessed repository? Other?
+
+I'm still looking around for possible projects. I would like to work on software that I have used already (which is a lot). The organiziation of the repository will have to be decided more specifically when the project is chosen, but a blessed repository seems fitting for the type of work I expect to be doing
